@@ -1,4 +1,6 @@
 # AI Mental Health Support Chatbot
+## Developed By
+Srisanth – AI & Backend Developer
 
 An AI-powered chatbot that provides emotional support and guidance for users experiencing mental health challenges.  
 The chatbot can detect user emotions and respond with supportive messages.
